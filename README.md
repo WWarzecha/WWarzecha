@@ -1,11 +1,14 @@
 ## Hi there! 👋
 
 ### About me
-- My name is Wiktor. I'm a 3rd year Computer Science student at AGH University Of Krakow
-- I enjoy programming, solving problems and.. making them up, so the cycle continues 🙈
-- In my free time I work on my DIY projects, train at a gym, pursue current hobbies and
-  explore new ones 
+- I'm Wiktor, a 3rd-year Computer Science student at AGH University Of Krakow 🎓
+- I love programming, solving problems, and sometimes even creating them—just to keep things interesting 🙈.
+- In my free time, I work on DIY projects 🔧, hit the gym 🏋️, and dive into both my current hobbies and new ones 🌱.
 
 ### Achievments
 - *Winner of the SWM Hackathon 2024* with project Krakoskie-Obwarzanki (webapp to track current locations of pretzel shops) 🥨
-- Survived over 2 years of studying computer science without losing my sanity (so far)
+- Successfully made it through over 2 years of studying computer science without losing my sanity (yet) 🤪
+
+### Contact
+- Linkedin: https://www.linkedin.com/in/wiktor-warzecha/
+- Mail: wmwarzecha@gmail.com
